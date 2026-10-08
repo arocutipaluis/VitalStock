@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build artifacts & local executables
+build/
+dist/
+*.manifest
+
+# Local databases & temporary scratch files
+*.db
+*.db-journal
+*.db-wal
+scratch/
+
+# Environment variables (never commit real secrets)
+.env
+.env.local
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Pytest / coverage cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS / IDE metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

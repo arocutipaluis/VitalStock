@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1
+tkinterdnd2>=0.4
+xlrd>=2.0      # opcional: solo para leer .xls binarios reales (no HTML)
+pyinstaller>=6.0
